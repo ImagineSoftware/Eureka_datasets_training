@@ -1,0 +1,7 @@
+path: ../datasets/eureka
+train: train/eureka/images 
+val: validation/eureka/images 
+test: test/eureka/images
+
+names:
+  0: alpaca
