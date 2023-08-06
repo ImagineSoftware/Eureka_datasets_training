@@ -4,4 +4,36 @@ val: validation/eureka/images
 test: test/eureka/images
 
 names:
-  0: alpaca
+  0: Diary
+  1: Conference phone
+  2: Headphone amplifier
+  3: Headphone ear pad
+  4: Headphones
+  5: Ipad
+  6: Iphone
+  7: Ipod
+  8: Microphone
+  9: Microphone preamplifier
+  10: Microphone stand
+  11: Mobile device
+  12: Mobile home
+  13: Mobile phone
+  14: Mobile phone accessories
+  15: Mobile phone battery
+  16: Mobile phone car mount
+  17: Mobile phone case
+  18: Mobile phone charger
+  19: Smartphone
+  20: Telephone
+  21: Telephone card
+  22: Telephone operator
+  23: Wireless microphone
+  24: Bag
+  25: Birkin bag
+  26: Bowling ball bag
+  27: Business bag
+  28: Business card
+  29: Diaper bag
+  30: Duffel bag
+  31: Garment bag
+  32: Gig bag
